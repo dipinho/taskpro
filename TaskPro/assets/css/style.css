@@ -1,0 +1,28 @@
+/* Estilos personalizados para TaskPro */
+header {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+    color: #333;
+}
+
+header h1 {
+    font-weight: bold;
+    color: #007bff;
+}
+
+header p {
+    font-size: 1.25rem;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
